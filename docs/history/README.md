@@ -1,0 +1,23 @@
+# The Map of Provenance: History of AI & Computing
+
+This is a living record of the "clicks" that made modern computing inevitable. We don't just track dates; we track the moment a new possibility was unlocked.
+
+## The Foundation (Pre-1900)
+* [1837 | Charles Babbage: The Analytical Engine](./1837-Analytical-Engine.md)
+* [1843 | Ada Lovelace: Note G](./1843-Note-G.md)
+* [1890 | Herman Hollerith: The Tabulating Machine](./1890-Tabulating-Machine.md)
+
+## The Theoretical Leap (1930s-1950s)
+* [1936 | Alan Turing: On Computable Numbers](./1936-On-Computable-Numbers.md)
+* [1945 | Vannevar Bush: As We May Think / The Memex](./1945-As-We-May-Think.md)
+* [1947 | Bardeen, Brattain, & Shockley: The Transistor](./1947-The-Transistor.md)
+* [1948 | Claude Shannon: A Mathematical Theory of Communication](./1948-Mathematical-Theory-Computation.md)
+* [1956 | The Dartmouth Workshop: Birth of AI](./1956-Dartmouth.md)
+* [1958 | Frank Rosenblatt: The Perceptron](./1958-Perceptron.md)
+
+## The Modern Connection
+* [1968 | Douglas Engelbart: The Mother of All Demos](./1968-Mother-All-Demos.md)
+* [1986 | Rumelhart, Hinton, & Williams: Backpropagation](./backpropagation.md)
+
+---
+[← Back to Main Project](../../README.md)

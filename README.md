@@ -16,6 +16,17 @@ Each entry explains:
 - **Why did it unlock something?** — The cascade of possibilities that followed
 - **What wouldn't exist without it?** — The causal chain forward
 
+## The Map of Provenance
+
+Most people know names like Turing or Hinton. This project explains **why** they matter by tracing the causal chain of breakthroughs.
+
+### Featured Entries:
+* **Ada Lovelace (1843):** Weaving algebraic patterns like a loom weaves flowers.
+* **The Transistor (1947):** The moment logic became physical and fast.
+* **Backpropagation (1986):** Teaching machines to learn from their own mistakes.
+
+**[Explore the full History of Clicks →](./docs/history/README.md)**
+
 ## Examples
 
 - **Dartmouth Workshop** → "What if intelligence could be described?"
