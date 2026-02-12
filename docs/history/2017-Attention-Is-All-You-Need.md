@@ -1,4 +1,4 @@
-## **Vaswani et al.: Attention Is All You Need (2017)**
+## **Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, Polosukhin: Attention Is All You Need (2017)**
 
 ### **What problem existed?**
 
@@ -6,7 +6,8 @@ Before 2017, AI models for language (like Google Translate) mostly used **Recurr
 
 ### **What did this person actually do?**
 
-A team of researchers at Google Brain published a paper introducing the **Transformer** architecture. Instead of reading sequentially, the Transformer used a mechanism called **"Self-Attention."** This allowed the model to look at every word in a sentence simultaneously and mathematically "weight" which other words were most relevant to it, regardless of how far apart they were.
+A team of researchers at Google Brain consisting of Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan Gomez, Lukasz Kaiser,
+and Illia Polosukhin published a paper introducing the **Transformer** architecture. Instead of reading sequentially, the Transformer used a mechanism called **"Self-Attention."** This allowed the model to look at every word in a sentence simultaneously and mathematically "weight" which other words were most relevant to it, regardless of how far apart they were.
 
 ### **Why did it unlock something?**
 
