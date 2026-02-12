@@ -1,4 +1,4 @@
-## **Xerox PARC: The Alto (1973)**
+## **Kay, Lampson, Thacker: The Alto (1973)**
 
 ### **What problem existed?**
 

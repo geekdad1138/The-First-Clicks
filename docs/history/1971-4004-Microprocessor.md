@@ -1,4 +1,4 @@
-## **Intel: The 4004 Microprocessor (1971)**
+## **Faggin, Hoff, Mazor: Intel - The 4004 Microprocessor (1971)**
 
 ### **What problem existed?**
 

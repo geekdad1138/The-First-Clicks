@@ -17,13 +17,16 @@ This is a living record of the "clicks" that made modern computing inevitable. W
 
 ## The Modern Connection
 * [1968 | Douglas Engelbart: The Mother of All Demos](./1968-Mother-All-Demos.md)
-* [1971 | Intel: The 4004 Microprocessor](./1971-4004-Microprocessor.md)
+* [1971 | Faggin, Hoff, Mazor: Intel - The 4004 Microprocessor](./1971-4004-Microprocessor.md)
 * [1973 | Xerox PARC: The Alto](./1973-The-Alto.md)
 * [1974 | Cerf & Kahn: TCP/IP](./1974-TCP-IP.md)
 * [1977 | Ward Christensen: The BBS & Dial-Up](./1977-BBS-Dial-Up.md)
 * [1979 | Truscott & Ellis: Usenet](./1979-Usenet.md)
 * [1985 | Stewart Brand & Larry Brilliant: The WELL](./1985-The-WELL.md)
 * [1986 | Rumelhart, Hinton, & Williams: Backpropagation](./backpropagation.md)
+* [1999 | Jen-Hsun "Jensen" Huang: The GPU](./1999-GPU.md)
+* [2001 | Wales, Sanger: Wikipedia](./2001-Wikipedia.md)
+* [2017 | Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, Polosukhin: Attention Is All You Need](./2017-Attention-Is-All-You-Need.md)
 
 ---
 [← Back to Main Project](../../README.md)
