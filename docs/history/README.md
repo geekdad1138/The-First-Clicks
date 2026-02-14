@@ -26,6 +26,7 @@ This is a living record of the "clicks" that made modern computing inevitable. W
 * [1986 | Rumelhart, Hinton, & Williams: Backpropagation](./backpropagation.md)
 * [1999 | Jen-Hsun "Jensen" Huang: The GPU](./1999-GPU.md)
 * [2001 | Wales, Sanger: Wikipedia](./2001-Wikipedia.md)
+* [2004 | Mark Zuckerberg: Facebook & The Social Graph](./2004-Facebook.md)
 * [2012 | Alex-Krizhevsky: AlexNet](./2012-AlexNet.md)
 * [2017 | Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, Polosukhin: Attention Is All You Need](./2017-Attention-Is-All-You-Need.md)
 
