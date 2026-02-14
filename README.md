@@ -8,42 +8,43 @@ A love letter to the founders of computing and AI—a living document that trace
 
 ## The Philosophy
 
-We don't tell this story chronologically. We tell it *causally*.
+We don't tell this story chronologically. We tell it **causally**.
 
 Each entry explains:
-- **What problem existed?** — The unsolved question or limitation
-- **What did this person actually do?** — The concrete contribution
-- **Why did it unlock something?** — The cascade of possibilities that followed
-- **What wouldn't exist without it?** — The causal chain forward
+
+* **What problem existed?** — The unsolved question or limitation.
+* **What did this person actually do?** — The concrete contribution.
+* **Why did it unlock something?** — The cascade of possibilities that followed.
+* **What wouldn't exist without it?** — The causal chain forward.
 
 ## The Map of Provenance
 
-Most people know names like Turing or Hinton. This project explains **why** they matter by tracing the causal chain of breakthroughs.
+Most people know names like Turing or Hinton. This project explains **why** they matter by tracing the evolution of the machine from a physical calculator to a global intelligence.
 
-### Featured Entries:
-* **Ada Lovelace (1843):** Weaving algebraic patterns like a loom weaves flowers.
-* **The Transistor (1947):** The moment logic became physical and fast.
-* **Backpropagation (1986):** Teaching machines to learn from their own mistakes.
+### The Four Pillars of the Map:
+
+* **The Foundation:** The birth of programmable logic and mechanized data.
+* **The Theoretical Leap:** Defining "Information" and the first attempts at digital brains.
+* **The Interactive Era:** Connecting humans to machines—creating the digital "nervous system."
+* **The Scaling Era:** The "Big Bang" of data and parallel power that led to Generative AI.
 
 **[Explore the full History of Clicks →](./docs/history/README.md)**
 
-## Examples
+## The Causal Chain: Examples
 
-- **Dartmouth Workshop** → "What if intelligence could be described?"
-- **UNIX** → "What if the OS was just tools glued together?"
-- **Attention Is All You Need** → "What if memory mattered more than recurrence?"
+* **The Analytical Engine** → "What if a machine could be told what to do?"
+* **The Transistor** → "What if we could make logic physical, tiny, and fast?"
+* **Usenet & The WELL** → "What if we archived the entire human conversation?"
+* **The GPU** → "What if we built a muscle strong enough to process it all?"
+* **Attention Is All You Need** → "What if memory mattered more than sequence?"
 
 ## Why This Matters
 
-Most people know *names*—Turing, Knuth, Hinton. But they don't know *why* these figures matter or how their ideas connected. This project fills that gap. It's a way to understand the thinking that shaped the world we work in, and to honor the people who did the thinking.
-
-## How to Use This
-
-Browse the entries to trace ideas backward or forward. Follow the causal chains. Understand not just what happened, but why the next breakthrough was possible.
+We are currently living in the "After" of these breakthroughs. By understanding the "Before," we demystify the technology we use every day. This project honors the individuals who saw the next step before it was visible to anyone else.
 
 ## Contributing
 
-If you have entries to suggest—a paper, a person, a moment that shaped computing—we'd love to add it. The goal is to make this as complete and thoughtful as possible.
+If you have a "click" to suggest—a paper, a person, or a moment that fundamentally shifted the trajectory of computing—we’d love to include it.
 
 ---
 
