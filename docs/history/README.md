@@ -26,6 +26,7 @@ This is a living record of the "clicks" that made modern computing inevitable. W
 *Focus: Connecting humans to machines and machines to each other—the birth of the digital "nervous system."*
 
 * [1968 | Douglas Engelbart: The Mother of All Demos](./1968-Mother-All-Demos.md)
+* [1970 | E.F. Codd: A Relational Model of Data for Large Shared Data Banks](./1970-Relational-Data-Model.md)
 * [1971 | Faggin, Hoff, Mazor: Intel - The 4004 Microprocessor](./1971-4004-Microprocessor.md)
 * [1973 | Kay, Lampson, Thacker: The Alto](./1973-The-Alto.md)
 * [1974 | Cerf & Kahn: TCP/IP](./1974-TCP-IP.md)
